@@ -4,7 +4,7 @@ import MainPart from './components/body-part1';
 import Header1 from './components/header';
 import Services from './components/services';
 import Team from './components/team';
-
+import Component from './components/services1';
 
 
 
@@ -16,6 +16,7 @@ function App() {
         <About/> 
         <Services/>
         <Team/>
+        <Component/>
     </div>
   );
 }
